@@ -1,30 +1,29 @@
 
 <p align="center">  
   <a href="https://youtu.be/WcA7GZuaN0A">
-    <img alt="Guru" height="300" src="https://telegra.ph/file/c15fce842890d1eb01a37.jpg">
-    <h1 align="center">Gojo bot </h1>
+    <img alt="nino" height="300" src="https://telegra.ph/file/4fedb05e75bd0fea7c627.jpg">
+    <h1 align="center">نينو</h1>
   </a>
 </p>
 <p align="center">
-<a href="https://wa.me/+201206178781"><img title="Author" src="https://img.shields.io/badge/gojo bot-blue?style=for-the-badge&logo=whatsapp"></a>
+<a href="https://wa.me/201206178781"><img title="Author" src="https://img.shields.io/badge/nino-darkgreen?style=for-the-badge&logo=whatsapp"></a>
 <p/>
 
 ####  
-Gojo Bot whatsapp bot.
+nino whatsapp bot.
 
 ***
 
-#### SETUP
+#### الخطوات
 
-1. احفظ الاسكربت
+1. احفظ الاسكربت عندك
     <br>
-<a href='https://github.com/Hashira0h/otherthing/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=brown'/></a>
+<a href='https://github.com/Hashira0h/neno/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
-2. اعمل سكان للكيو أر كود
+2. اعمل ربط لل كيو أر كود
     <br>
-<a href='https://replit.com/@Guru322/GURU-BOT-QR-CODE-GENERATOR?v=1' target="_blank"><img alt='SCAN QR' src='https://img.shields.io/badge/Scan_qr-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=brown'/></a>
-
- **Arigato <3** |[My YT Channel](https://www.youtube.com/channel/UCATmEiG0bFIo4cP-ZihoPAQ#thanks-to) | 
+<a href='https://replit.com/@Guru322/GURU-BOT-QR-CODE-GENERATOR?v=1' target="_blank"><img alt='SCAN QR' src='https://img.shields.io/badge/Scan_qr-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
 
+ **THANKS TO** |[here](https://www.instagram.com/mohamedekramy.moyt/#thanks-to) | 
 
