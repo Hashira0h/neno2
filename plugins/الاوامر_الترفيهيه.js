@@ -95,42 +95,8 @@
 ];
    }else if (/^الفروع$/i.test(m.text)) { 
      responses = [ 
-'*~◞🕸فروع سبايدر🕸◜~*
-*❆━•✠•━━•﹝🕷﹞•━━•✠•━❆*
-*┣الفرع❶┇➥*
-
-◈╎```https://chat.whatsapp.com/DBln2P93Ivx2bdzbjKMR3a```
-*❋• ┈─━ ◞🕷◜ ━─┈ •❋*
-*┣الفرع❷┇➥*
-
-◈╎```https://chat.whatsapp.com/Eolqe7ab4UcF0sh2jWSnJV```
-*❋• ┈─━ ◞🕷◜ ━─┈ •❋*\n*┣الفرع❸┇➥*
-
-◈╎```https://chat.whatsapp.com/HtbPJlBPpp40mAEPTq4Izt```
-*❋• ┈─━ ◞🕷◜ ━─┈ •❋*\n*┣الفرع❹┇➥*
-
-◈╎```https://chat.whatsapp.com/GBGC65gksGFLsbIeXFmNOq```
-*❋• ┈─━ ◞🕷◜ ━─┈ •❋*\n*┣الفرع❺┇➥*
-
-◈╎```https://chat.whatsapp.com/JalozVpYAkPLrpLqcqBrnh```
-*❋• ┈─━ ◞🕷◜ ━─┈ •❋*\n*┣فرع الملصقات🎭┇➥*
-
-◈╎```https://chat.whatsapp.com/HsUpoUYYdaXDoCHULObtOv```
-*❋• ┈─━ ◞🕷◜ ━─┈ •❋*\n*┣فرع الصور🪐┇➥*
-
-◈╎```https://chat.whatsapp.com/HYkO0WWGlpO9AeaaiNeimf```
-*❆━•✠•━━•﹝🕷﹞•━━•✠•━❆*
-*✠╎sρiɒєя‹🕷›sнαяє╎✠*',
+'*~◞🕸فروع سبايدر🕸◜~*\n*❆━•✠•━━•﹝🕷﹞•━━•✠•━❆*\n*┣الفرع❶┇➥*\n\n◈╎```https://chat.whatsapp.com/DBln2P93Ivx2bdzbjKMR3a```\n*❋• ┈─━ ◞🕷◜ ━─┈ •❋*\n*┣الفرع❷┇➥*\n\n◈╎```https://chat.whatsapp.com/Eolqe7ab4UcF0sh2jWSnJV```\n*❋• ┈─━ ◞🕷◜ ━─┈ •❋*\n*┣الفرع❸┇➥*\n\n◈╎```https://chat.whatsapp.com/HtbPJlBPpp40mAEPTq4Izt```\n*❋• ┈─━ ◞🕷◜ ━─┈ •❋*\n*┣الفرع❹┇➥*\n\n◈╎```https://chat.whatsapp.com/GBGC65gksGFLsbIeXFmNOq```\n*❋• ┈─━ ◞🕷◜ ━─┈ •❋*\n*┣الفرع❺┇➥*\n\n◈╎```https://chat.whatsapp.com/JalozVpYAkPLrpLqcqBrnh```\n*❋• ┈─━ ◞🕷◜ ━─┈ •❋*\n*┣فرع الملصقات🎭┇➥*\n\n◈╎```https://chat.whatsapp.com/HsUpoUYYdaXDoCHULObtOv```\n*❋• ┈─━ ◞🕷◜ ━─┈ •❋*\n*┣فرع الصور🪐┇➥*\n\n◈╎```https://chat.whatsapp.com/HYkO0WWGlpO9AeaaiNeimf```\n*❆━•✠•━━•﹝🕷﹞•━━•✠•━❆*\n*✠╎sρiɒєя‹🕷›sнαяє╎✠*',
 ];
-   }else if (/^الامر$/i.test(m.text)) { 
-     responses = [ 
-'', 
-'',  
-'',  
-'',  
-'',
-     ]; 
-
     }  
    if (responses) { 
      let randomIndex = Math.floor(Math.random() * responses.length); 
