@@ -3,7 +3,7 @@ let handler = m => m;
  handler.all = async function (m) { 
    let chat = global.db.data.chats[m.chat]; 
    let responses; 
-   if (/^تع|تعداد$/i.test(m.text)) { 
+   if (/^تع$/i.test(m.text)) { 
      responses = [ 
 '*⦃ ثلاثه ادميرال ⦄*',
 '*⦃ ثلاثه دي ⦄*',
